@@ -828,7 +828,9 @@ td {
   background: #7141b1;
   color: #fff;
 }
-
+.font-bold{
+  font-weight: 960;
+}
 .octf-btn.octf-btn-second {
   background: #7141b1;
   color: #fff;

@@ -1204,7 +1204,7 @@ a:hover, a:active {
 ## Logo
 --------------------------------------------------------------*/
 #site-logo {
-  min-width: 145px;
+  min-width: 175px;
   padding: 30px 0;
   display: inline-flex;
   vertical-align: middle;
@@ -14065,8 +14065,9 @@ svg:not(:root) {
 }
 
 /* HTML */
+/* bg-map-dots changed this below section padding-top */
 section {
-    padding-top: 120px;
+    padding-top: 0px;
     padding-bottom: 130px;
     position: relative;
 }

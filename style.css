@@ -1213,7 +1213,7 @@ a:hover, a:active {
   line-height: 1;
 }
 #site-logo img {
-  width: 145px;
+  width: 195px;
 }
 #site-logo img.logo-static {
   display: block;
@@ -2043,6 +2043,18 @@ a:hover, a:active {
   }
 }
 @media only screen and (max-width: 320px) {
+  .mobile_logo img {
+    max-width: 230px;
+    max-height: 47px;
+  }
+}
+@media only screen and (max-width: 430px) {
+  .mobile_logo img {
+    max-width: 200px;
+    max-height: 30px;
+  }
+}
+@media only screen and (min-width: 1020px) {
   .mobile_logo img {
     max-width: 230px;
     max-height: 47px;
